@@ -40,5 +40,9 @@ allaerge warbubg
 1.sausage 
 changes to the master after createing without rebase
 
+this is for stash example 
+
+
+
 
 change to master after stash
