@@ -39,3 +39,6 @@ Directions
 allaerge warbubg 
 1.sausage 
 changes to the master after createing without rebase
+
+
+change to master after stash
